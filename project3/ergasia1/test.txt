@@ -1,0 +1,31 @@
+Query : 0
+Could not find Nearest neighbor 0 using aproximate KNN
+distanceTrue: 1095.86
+tHypercube: 0.000889
+tTrue: 0.001691
+R-near neighbors:
+Query : 1
+Could not find Nearest neighbor 0 using aproximate KNN
+distanceTrue: 1554.42
+tHypercube: 0.000885
+tTrue: 0.001689
+R-near neighbors:
+Query : 2
+Could not find Nearest neighbor 0 using aproximate KNN
+distanceTrue: 547.098
+tHypercube: 0.001485
+tTrue: 0.001693
+R-near neighbors:
+Query : 3
+Could not find Nearest neighbor 0 using aproximate KNN
+distanceTrue: 1297.79
+tHypercube: 0.001165
+tTrue: 0.001711
+R-near neighbors:
+Query : 4
+Could not find Nearest neighbor 0 using aproximate KNN
+distanceTrue: 1322.51
+tHypercube: 0.00159
+tTrue: 0.001753
+R-near neighbors:
+MAF : 6.95258e-310
